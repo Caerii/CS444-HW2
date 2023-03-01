@@ -44,6 +44,7 @@ Program Description: This program solves the producer-consumer problem using pth
 
 Last updated 2/28/23
 
-YouTube Code Review & Demo link: 
+# YouTube Code Review & Demo link: 
 Yt Link: https://www.youtube.com/watch?v=hG3C_GhvEnk
+
 Repo link: https://github.com/Caerii/CS444-HW2
