@@ -7,7 +7,7 @@
 // Program Description: This program solves the producer-consumer problem using pthreads and mutexes.
 // Last updated 2/28/23
 // YouTube Code Review & Demo link: 
-// Yt Link: TODO
+// Yt Link: https://www.youtube.com/watch?v=hG3C_GhvEnk
 // Repo link: https://github.com/Caerii/CS444-HW2
 
 // Write a program in C/C++ that cleanly demonstrates and solves the producer-consumer problem without experiencing starvation or deadlock of either thread.
