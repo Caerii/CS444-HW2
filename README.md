@@ -33,12 +33,17 @@
 
 Operating Systems - CS444/544
 Spring 2023
+
 Alif Jakir
+
 jakirab@clarkson.edu
+
 This assignment is meant to be a review of the C/C++ programming language and the pthreads library.
 Parallel programming is a very important skill to have in the field of computer science.
 Program Description: This program solves the producer-consumer problem using pthreads and mutexes.
+
 Last updated 2/28/23
+
 YouTube Code Review & Demo link: 
 Yt Link: https://www.youtube.com/watch?v=hG3C_GhvEnk
 Repo link: https://github.com/Caerii/CS444-HW2
